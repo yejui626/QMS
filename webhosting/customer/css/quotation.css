@@ -1,0 +1,53 @@
+.amount{
+	width: 200px;
+}
+
+/* icon in quotation.php */
+.qview{
+	color: lightgrey;
+}
+
+.qview:hover{
+	color: darkgrey;
+}
+
+.qaccept{
+	color: limegreen;
+}
+
+.qaccept:hover{
+	color: darkgreen;
+}
+
+.qreject{
+	color: red;
+}
+
+.qreject:hover{
+	color: darkred;
+}
+
+.qedit{
+	color: blue;
+}
+
+.qedit:hover{
+	color: darkblue;
+}
+
+.dash{
+	color: black;
+}
+
+.dash:hover{
+	color: grey;
+}
+
+/* class in quotationadd.php */
+
+.left{
+	text-align: left;
+	font-size: 16px;
+}
+
+
